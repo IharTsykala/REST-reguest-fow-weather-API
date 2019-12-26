@@ -1,0 +1,1 @@
+[REST-request-for-weather-API](https://IharTsykala.github.io/REST-reguest-for-weather-API)
