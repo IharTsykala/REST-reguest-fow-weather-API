@@ -24,10 +24,20 @@
 // })
 // obj =promise.then((data)=>data.json()).then((data)=>console.log(data))
 
+// let obj;
+// function getDate(date){
+//   obj=date;
+//   console.log(obj);
+// }
 
+// let promise = (fetch(url))
+
+// let a 
+// obj =promise.then((data)=>data.json()).then((data)=>console.log(a=data))
+
+// console.log(obj.then())
 
 const input = document.getElementById('input');
-const form = document.getElementById('form')
 const button = document.getElementById('button')
 
 const url =
@@ -50,16 +60,3 @@ axi();
 }
 
 button.addEventListener('click',(e)=> request(e))
-
-// let obj;
-// function getDate(date){
-//   obj=date;
-//   console.log(obj);
-// }
-
-// let promise = (fetch(url))
-
-// let a 
-// obj =promise.then((data)=>data.json()).then((data)=>console.log(a=data))
-
-// console.log(obj.then())
